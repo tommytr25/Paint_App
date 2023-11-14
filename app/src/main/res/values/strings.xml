@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="blackbutton">blackButton</string>
+    <string name="redbutton">redButton</string>
+    <string name="greenbutton">greenButton</string>
+    <string name="bluebutton">blueButton</string>
+    <string name="purplebutton">purpleButton</string>
+    <string name="whitebutton">whiteButton</string>
+    <string name="backgroundimage">backgroundImage</string>
+    <string name="brushimage">brushImage</string>
+    <string name="galleryimage">galleryImage</string>
+    <string name="saveimage">saveImage</string>
+    <string name="undoimage">undoImage</string>
+</resources>
